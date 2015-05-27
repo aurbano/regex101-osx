@@ -1,0 +1,1 @@
+macgap.menu.getItem("File").remove();
