@@ -20,3 +20,5 @@ Possible features to work on:
 
 Original work by [@firasdib](https://github.com/firasdib), packaged as an application by [@aurbano](https://github.com/aurbano)
 App released under the MIT License
+
+[![Analytics](https://ga-beacon.appspot.com/UA-3181088-16/regex101-osx/readme)](https://github.com/aurbano)
