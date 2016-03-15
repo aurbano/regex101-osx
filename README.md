@@ -7,6 +7,19 @@
 
 The app is basically the [offline version](https://github.com/Syskaw/Regex101.com-offline-app) of Regex101, packaged with [MacGap](https://github.com/MacGapProject/MacGap1) after adding some changes to it.
 
+## Build
+
+1. Install [MacGap](https://github.com/MacGapProject/MacGap1) 
+
+   ```$ gem install macgap```
+
+2. Build application:
+
+    ```$ macgap build app --name Regex101 --output build```
+
+
+The build script generates an application, available inside the `build` folder.
+
 ## Roadmap
 Possible features to work on:
 
