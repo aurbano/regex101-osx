@@ -1,4 +1,4 @@
-# [Regex101 OSX](http://urbanoalvarez.es/regex101-osx)
+# [Regex101 OSX](https://aurbano.github.io/regex101-osx)
 > Regex101 packaged as an offline Mac OSX application
 
 ![Regex101](https://raw.githubusercontent.com/aurbano/regex101-osx/master/assets/screenshot.png)
